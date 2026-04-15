@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+.nav{
+    background-color:rgb(198, 167, 49);
+    height: 80px;
+    display: flex;
+    align-items: center; 
+    /* padding: 50px; */
+}
+.nav_ul{
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  width: 60%;
+  margin: auto;
+  list-style: none;
+  font-size:large;
+  padding: 0%;
+}
+img{
+  z-index: 0;
+  height: auto;
+  width: 100%;
+}
+
