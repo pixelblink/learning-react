@@ -5,7 +5,7 @@ function Contact(){
     return(
         <>
         <h1>Contact Page</h1>
-        <button onClick={()=>fun("data")}>click here</button>
+        <button onClick={()=>fun("data")}>click heree</button>
         </>
     )
 }
